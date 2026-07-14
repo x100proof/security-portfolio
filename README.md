@@ -23,7 +23,7 @@ Apart from the bug bounty write-ups three posts I would recommend reading are:
 - **2024** Participated in one audit competition, Euler V2 on [Cantina](https://cantina.xyz) but otherwise bounty hunted. Morpho and NEAR bounties landed this year.
 - **2025** Bounty hunted (without success) until September then performed 5 audits until end of year.
 
-## Bounties
+## Selected Bounties
 
 - **Sep 2022** [Notional](https://github.com/one-hundred-proof/notional-flash-attack).
 - **Apr 2023** [KyberSwap](https://100proof.org/kyberswap-post-mortem.html).
@@ -32,12 +32,14 @@ Apart from the bug bounty write-ups three posts I would recommend reading are:
 
 ----------------------------------------------------------------------------------------------------
 
-## Audits
+## Selected Audits
 
 ### Cyfrin
 
-- **Sep 2025** [Angstrom](./2025-10-01-cyfrin-sorella-l2-angstrom-v2.1.pdf)
+=======
+- **Feb 2025** [Parallel 3.1](2026-03-04-cyfrin-parallel3.1-v2.0.pdf)
 - **Oct 2025** [Remora Dynamic Tokens](./2025-10-22-cyfrin-remora-dynamic-tokens-v2.1.pdf)
+- **Sep 2025** [Angstrom](./2025-10-01-cyfrin-sorella-l2-angstrom-v2.1.pdf)
 
 ### Greybeard Security
 
