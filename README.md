@@ -36,7 +36,6 @@ Apart from the bug bounty write-ups three posts I would recommend reading are:
 
 ### Cyfrin
 
-=======
 - **Feb 2025** [Parallel 3.1](2026-03-04-cyfrin-parallel3.1-v2.0.pdf)
 - **Oct 2025** [Remora Dynamic Tokens](./2025-10-22-cyfrin-remora-dynamic-tokens-v2.1.pdf)
 - **Sep 2025** [Angstrom](./2025-10-01-cyfrin-sorella-l2-angstrom-v2.1.pdf)
